@@ -24,7 +24,7 @@ I am originally from **Sudan** and bring a perspective shaped by both the challe
   Analyzed enrollment patterns in Virginia to identify opportunity gaps in STEM education and propose equity-focused policy reforms.  
 ---
 
-## 🛠️ Technical Skills  
+##  Technical Skills  
 - **Data Analysis:** Stata, R, SQL  
 - **Geospatial Analysis:** ArcGIS, QGIS  
 - **Data Visualization:** R (ggplot2), Tableau (beginner), Python (learning)  
@@ -32,11 +32,11 @@ I am originally from **Sudan** and bring a perspective shaped by both the challe
 
 ---
 
-## 🌍 Let’s Connect  
+## Let’s Connect  
 - [LinkedIn](www.linkedin.com/in/hana-bakhit-15678f)  
 - [Email](mailto:hanamonafal@gmail.com)  
 
 ---
 
-✨ *This GitHub is where I share my applied research projects on poverty, inequality, and development. My goal is to combine strong technical analysis with actionable insights that support inclusive growth and poverty reduction.*
+ *This GitHub is where I share my applied research projects on poverty, inequality, and development. My goal is to combine strong technical analysis with actionable insights that support inclusive growth and poverty reduction.*
 # github.com-hanabakhit-hanabakhit
