@@ -10,9 +10,9 @@ I am originally from **Sudan** and bring a perspective shaped by both the challe
 ---
 
 ##  Research & Policy Interests  
-- Poverty measurement & inequality diagnostics  
+- Poverty measurement & inequality diagnostics. 
 - Spatial inequality & access to services (water, sanitation, electricity)  
-- Gender equity in education & labor markets    
+- Gender equity in education & labor markets.  
 
 ---
 
