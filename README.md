@@ -27,14 +27,14 @@ Across my academic and professional experiences, I focus on using **data-driven 
 
 ##  Selected Projects  
 
-- **[Gender Disparities in Computer Science Education](#)**  
-  Analyzed enrollment patterns in Virginia to identify opportunity gaps in STEM education and propose equity-focused policy reforms.  
+- **[Economic Convergence](https://github.com/HanaBakhit/economic-convergence)**  
+  An analysis project exploring economic convergence—testing whether economies become more similar over time using empirical data, with reproducible code and results in the repository.  
 ---
 
 ##  Technical Skills  
-- **Data Analysis:** Stata, R, SQL  
+- **Data Analysis:** Stata, R, Excel 
 - **Geospatial Analysis:** ArcGIS, QGIS  
-- **Data Visualization:** R (ggplot2), Tableau (beginner), Python (learning)  
+- **Data Visualization:** R (ggplot2), Tableau , Python  
 - **Languages:** English (fluent), Arabic (native)  
 
 ---
